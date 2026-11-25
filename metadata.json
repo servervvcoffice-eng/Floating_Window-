@@ -1,0 +1,6 @@
+{
+  "name": "FloatX",
+  "description": "Custom Floating Window Manager & Sidebar inspired by HyperOS 3 & iOS with real multi-window, freeform launcher, and floating tool overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
